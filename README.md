@@ -1,6 +1,3 @@
 # hello-world
 Just another repository
-
-So that humans get me
-
-I'm just a guy. 
+I'm just a guy. Walking on the moon. With my trumpet and platoon.
